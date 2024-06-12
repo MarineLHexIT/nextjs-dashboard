@@ -1,0 +1,7 @@
+name = "nextjs-dashboard"
+
+compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "MY_KV"
+id = "50899b893d6c4b00b9c769af9a29b46d"
